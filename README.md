@@ -28,7 +28,7 @@ This project demonstrates **reactivity, form validation, computed properties, an
 ## 💻 Live Demo
 
 You can view the live demo here:  
-[https://yourusername.github.io/vue-contact-form/](https://AaronSoon21.github.io/vue-contact-form/)
+[https://AaronSoon21.github.io/vue-contact-form/](https://AaronSoon21.github.io/vue-contact-form/)
 
 > *Replace the link with your actual GitHub Pages / Netlify URL once deployed.*
 
